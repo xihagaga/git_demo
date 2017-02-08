@@ -13,6 +13,7 @@ import {
 } from 'react-native';
 var my="冲突测试2"
 var aa="员工修改"
+
 var Main = require("./component/Main")
 export default class DouBanDemo extends Component {
   render() {
